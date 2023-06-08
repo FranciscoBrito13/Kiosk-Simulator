@@ -1,0 +1,5 @@
+Cola:Bebida:6:2023-03-3
+Croissant chocolate:Bolo:6:2023-03-11
+Banana:Fruta:7:2023-03-11
+Batatas fritas:Snack:6:2023-03-11
+Batatas fritas:Snack:6:2023-03-11

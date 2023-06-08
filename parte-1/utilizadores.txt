@@ -1,0 +1,8 @@
+1:Paulo Pereira:fsd423erddew:paulo.pereira@kiosk-iul.pt:235123532:123
+2:Catarina Cruz:12qwaszx:catarina.cruz@kiosk-iul.pt:234580880:47
+3:Joao Baptista Goncalves:09polkmn:joao.goncalves@kiosk-iul.pt:215654377:20
+4:Lourenco Jorge Amado:1234:lourenco.amado@kiosk-iul.pt:267518528:2410
+5:Ines Mendonca Consolado:1234:ines.consolado@kiosk-iul.pt:2671018528:253
+6:Francisco Cabaco Ramos de Brito:1234:francisco.brito@kiosk-iul.pt:267518528:213
+7:Mariana Maranja:12345:mariana.maranja@kiosk-iul.pt:123456789:999996
+8:Ricardo Fonseca:senha:ricardo.fonseca@kiosk-iul.pt:123456789:10

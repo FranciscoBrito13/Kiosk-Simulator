@@ -1,0 +1,6 @@
+Croissant chocolate:Bolo:1
+Batatas fritas:Snack:1
+Cola:Bebida:1
+Sumo:Bebida:1
+Laranja:Fruta:1
+Banana:Fruta:1

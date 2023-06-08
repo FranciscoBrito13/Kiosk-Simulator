@@ -1,0 +1,6 @@
+Croissant chocolate:Bolo:3:4:7
+Batatas fritas:Snack:2:8:10
+Cola:Bebida:3:9:10
+Sumo:Bebida:2:10:20
+Laranja:Fruta:1:10:10
+Banana:Fruta:1:5:5
